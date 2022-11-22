@@ -7,3 +7,4 @@ Lecturer: Prof. Dr. Moritz Grosse-Wentrup, Research Group Neuroinformatics, Univ
 As an effort to make SIP more interacting for you, we have made these exercises to help you get up and running with coding and conceptualizing the topics taught in class.
 
  - run `make install`
+ - open `notebook.ipynb` and complete exercises
