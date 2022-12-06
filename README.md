@@ -1,6 +1,6 @@
 # Convolution implementation exercise
 
-Signal and Image Processing S2022W semester.
+Signal and Image Processing S2023 Summer semester.
 
 AI summer school 2021 of the Austrian Academy of Sciences
 Lecturer: Prof. Dr. Moritz Grosse-Wentrup, Research Group Neuroinformatics, University of Vienna
