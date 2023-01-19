@@ -8,3 +8,5 @@ As an effort to make SIP more interacting for you, we have made these exercises 
 
  - run `make install`
  - open `notebook.ipynb` and complete exercises
+ 
+ Continue 
