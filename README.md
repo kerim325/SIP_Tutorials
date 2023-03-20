@@ -14,3 +14,5 @@ Dependencies:
  Open the `SIP_SS23_Convoilution-DFT_Tutorials.ipynb` and complete tasks
  
  Best
+ 
+ You SIP team
