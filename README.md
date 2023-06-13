@@ -15,4 +15,4 @@ Dependencies:
  
  Best
  
- You SIP team
+ Your SIP team
