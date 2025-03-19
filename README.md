@@ -1,4 +1,4 @@
-# Signal and Image Processing (SS_2024)
+# Signal and Image Processing (WS_2024)
 
 Research Group Neuroinformatics </br>
 University of Vienna
@@ -7,10 +7,10 @@ University of Vienna
 
 ### Lecturer
 
-Prof. Dr. Moritz Grosse-Wentrup
+Philipp Raggam
 
 ### Tutors
-Anja Meunier </br>
+
 Kerim Atak
 
 ## Course Description
