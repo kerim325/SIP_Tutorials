@@ -1,18 +1,11 @@
-# Signal and Image Processing (WS_2024)
+# Signal and Image Processing (SS_2025)
 
-Research Group Neuroinformatics </br>
-University of Vienna
+Research Group Neuroinformatics  
+University of Vienna  
 
-## Team
+**Prof. Moritz Grosse-Wentrup**  
+**Tutor: Kerim Atak**
 
-### Lecturer
+## Description
 
-Philipp Raggam
-
-### Tutors
-
-Kerim Atak
-
-## Course Description
-
-This repository is designed to enhance the learning experience in the Signal and Image Processing course. As part of the effort to make the course more interactive, hands-on exercises are incorporated into the class. These exercises are aimed at facilitating the understanding and application of coding and the concepts taught during lectures.
+This repository accompanies the Signal and Image Processing course. It contains all hands-on exercises and code examples used in lectures to help students practice and apply the concepts covered.  
