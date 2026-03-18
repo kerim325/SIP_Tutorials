@@ -1,4 +1,4 @@
-# Signal and Image Processing (SS_2025)
+# Signal and Image Processing (SS_2026)
 
 Research Group Neuroinformatics  
 University of Vienna  
